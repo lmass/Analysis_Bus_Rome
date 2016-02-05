@@ -1,6 +1,6 @@
 Questi programmi sono stati sviluppati per analizzare la rete bus di roma.
 
-Per funzionare richiedono questi pacchitto:
+Per funzionare richiedono questi pacchetti:
 
 -snap: https://snap.stanford.edu
 -geopy: https://geopy.readthedocs.org/en/1.10.0/
